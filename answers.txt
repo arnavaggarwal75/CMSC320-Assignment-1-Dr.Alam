@@ -5,3 +5,7 @@ Answer: We use git for tracking, collaboration, peer reviews and feature isolati
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to healthcare, for example, by using predictive analytics to forecast patient outcomes and optimize treatment plans.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the changes from one branch into another, creating a new commit, whereas rebasing rewrites the commit history by applying changes from one branch onto another without creating a merge commit.
