@@ -9,3 +9,7 @@ Answer: Data science can be applied to healthcare, for example, by using predict
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines the changes from one branch into another, creating a new commit, whereas rebasing rewrites the commit history by applying changes from one branch onto another without creating a merge commit.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to learn pandas at a deeper level through this class. I have used it previously but I want to understand the syntax since it has never made intuitive sense to me whenever I used it so far.
